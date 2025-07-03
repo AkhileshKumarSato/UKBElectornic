@@ -1,0 +1,48 @@
+D:\Akhilesh Kumar\Projects\Asti Label Printing\Asti_Label_Printing\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Asti Label Printing\Asti_Label_Printing\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Asti Label Printing\Asti_Label_Printing\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\Asti Label Printing\Asti_Label_Printing\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\Asti Label Printing\Asti_Label_Printing\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Asti Label Printing\Asti_Label_Printing\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\MG Motors Demo\Part Image Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\MG Motors Demo\Part Image Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\MG Motors Demo\Part Image Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\MG Motors Demo\Part Image Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\MG Motors Demo\Part Image Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\MG Motors Demo\Part Image Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\MG Motors Demo\Part Image Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csprojAssemblyReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csprojAssemblyReference.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csprojAssemblyReference.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CopyComplete
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csprojAssemblyReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csprojAssemblyReference.cache
+D:\Projects\UKB Electronics\Code\UKB Electronics\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Projects\UKB Electronics\Code\UKB Electronics\SATO_PRINTING_COMMON\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Projects\UKB Electronics\Code\UKB Electronics\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.AssemblyReference.cache
+D:\Projects\UKB Electronics\Code\UKB Electronics\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
+D:\Projects\UKB Electronics\Code\UKB Electronics\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.csproj.CopyComplete
+D:\Projects\UKB Electronics\Code\UKB Electronics\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Projects\UKB Electronics\Code\UKB Electronics\SATO_PRINTING_COMMON\obj\x64\Debug\SATO_PRINTING_COMMON.pdb

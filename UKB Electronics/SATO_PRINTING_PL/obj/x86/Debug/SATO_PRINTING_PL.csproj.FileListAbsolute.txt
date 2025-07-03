@@ -1,0 +1,10 @@
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\bin\x86\Debug\SATO_PRINTING_PL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\bin\x86\Debug\SATO_PRINTING_PL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\bin\x86\Debug\SATO_PRINTING_COMMON.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\bin\x86\Debug\SatoLib.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\bin\x86\Debug\SATO_PRINTING_COMMON.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\obj\x86\Debug\SATO_PRINTING_PL.csproj.CoreCompileInputs.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\obj\x86\Debug\SATO_PRINTING_PL.csproj.CopyComplete
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\obj\x86\Debug\SATO_PRINTING_PL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\obj\x86\Debug\SATO_PRINTING_PL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_PL\obj\x86\Debug\SATO_PRINTING_PL.csprojAssemblyReference.cache

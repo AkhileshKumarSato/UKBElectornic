@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Live Projects\\UKB Electronics\\UKB Electronics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B953FD26-AD4E-423D-868D-753A1E2EE96E}|WMS_UKB_Electronics\\WMS_UKB_Electronics.csproj|d:\\live projects\\ukb electronics\\ukb electronics\\wms_ukb_electronics\\ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953FD26-AD4E-423D-868D-753A1E2EE96E}|WMS_UKB_Electronics\\WMS_UKB_Electronics.csproj|solutionrelative:wms_ukb_electronics\\ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953FD26-AD4E-423D-868D-753A1E2EE96E}|WMS_UKB_Electronics\\WMS_UKB_Electronics.csproj|D:\\Live Projects\\UKB Electronics\\UKB Electronics\\wms_ukb_electronics\\ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953FD26-AD4E-423D-868D-753A1E2EE96E}|WMS_UKB_Electronics\\WMS_UKB_Electronics.csproj|solutionrelative:wms_ukb_electronics\\ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "D:\\Live Projects\\UKB Electronics\\UKB Electronics\\WMS_UKB_Electronics\\UI\\frmMenu.cs",
+              "RelativeDocumentMoniker": "WMS_UKB_Electronics\\UI\\frmMenu.cs",
+              "ToolTip": "D:\\Live Projects\\UKB Electronics\\UKB Electronics\\WMS_UKB_Electronics\\UI\\frmMenu.cs",
+              "RelativeToolTip": "WMS_UKB_Electronics\\UI\\frmMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:59:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Live Projects\\UKB Electronics\\UKB Electronics\\WMS_UKB_Electronics\\UI\\frmMenu.cs",
+              "RelativeDocumentMoniker": "WMS_UKB_Electronics\\UI\\frmMenu.cs",
+              "ToolTip": "D:\\Live Projects\\UKB Electronics\\UKB Electronics\\WMS_UKB_Electronics\\UI\\frmMenu.cs [Design]",
+              "RelativeToolTip": "WMS_UKB_Electronics\\UI\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:59:22.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

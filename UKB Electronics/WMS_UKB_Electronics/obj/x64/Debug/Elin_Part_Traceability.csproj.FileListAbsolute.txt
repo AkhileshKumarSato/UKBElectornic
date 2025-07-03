@@ -1,0 +1,220 @@
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe.config
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\FastMember.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\FlashControlV71.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SatoLib.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.Packaging.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ShockwaveFlashObjects.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\stdole.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.xml
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csprojAssemblyReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Interop.ActiveDs.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.ResolveComReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmReport.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmAccessPassword.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLogin.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMenu.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmChangePassword.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmGroupMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmUserMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.Properties.Resources.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.GenerateResource.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.exe
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLinePartMapping.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLineMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMRPAndCartonScanningStation_2_3.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartScanning.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.UI.Process.Form1.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe.config
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.pdb
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\FastMember.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SatoLib.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.Packaging.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\stdole.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.xml
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.pdb
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.pdb
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.pdb
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csprojAssemblyReference.cache
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Interop.ActiveDs.dll
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.ResolveComReference.cache
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLinePartMapping.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLineMaster.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartMaster.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.UI.Process.Form1.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMRPAndCartonScanningStation_2_3.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmReport.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartScanning.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmAccessPassword.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLogin.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMenu.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmChangePassword.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmGroupMaster.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmUserMaster.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.Properties.Resources.resources
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.GenerateResource.cache
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CoreCompileInputs.cache
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CopyComplete
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.exe
+D:\Projects\Live Project\New Project\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe.config
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\FastMember.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SatoLib.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.Packaging.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.xml
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csprojAssemblyReference.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Interop.ActiveDs.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.ResolveComReference.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLinePartMapping.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLineMaster.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartMaster.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.UI.Process.Form1.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMRPAndCartonScanningStation_2_3.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmReport.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartScanning.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmAccessPassword.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLogin.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMenu.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmChangePassword.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmGroupMaster.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmUserMaster.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.Properties.Resources.resources
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.GenerateResource.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CoreCompileInputs.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CopyComplete
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.exe
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe.config
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\FastMember.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\FlashControlV71.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SatoLib.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\System.IO.Packaging.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ShockwaveFlashObjects.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\stdole.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.xml
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csprojAssemblyReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Interop.ActiveDs.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.ResolveComReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLinePartMapping.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLineMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.UI.Process.Form1.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMRPAndCartonScanningStation_2_3.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmReport.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartScanning.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmAccessPassword.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLogin.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMenu.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmChangePassword.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmGroupMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmUserMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.Properties.Resources.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.GenerateResource.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.exe
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.UI.Process.Form2.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\64X\64X\Elin Part Traceability _250322\Elin Part Traceability\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.UI.Process.Form3.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe.config
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.exe
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\Elin_Part_Traceability.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\FastMember.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\FlashControlV71.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SatoLib.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\System.IO.Packaging.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\ShockwaveFlashObjects.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\stdole.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\DocumentFormat.OpenXml.xml
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\ExcelNumberFormat.xml
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_BL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_COMMON.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_PL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\bin\x64\Debug\SATO_PRINTING_DL.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csprojAssemblyReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Interop.ActiveDs.dll
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.ResolveComReference.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLinePartMapping.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLineMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMRPAndCartonScanningStation_2_3.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmReport.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartScanning.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmAccessPassword.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmLogin.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMenu.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmChangePassword.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmGroupMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmUserMaster.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.Properties.Resources.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.GenerateResource.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.csproj.CopyComplete
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.exe
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.pdb
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmPartiallyComplete.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmCartonScanningStation.resources
+D:\Akhilesh Kumar\Projects\Elin Electronics\Code\Elin Part Traceability -64\Elin_Part_Traceability\obj\x64\Debug\Elin_Part_Traceability.frmMRPScanningStation.resources

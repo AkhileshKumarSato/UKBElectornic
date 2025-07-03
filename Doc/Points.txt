@@ -1,0 +1,20 @@
+UKB
+1.Plant Selection on Login both PC and HHT-Done
+2.Email ID on User-Done
+3.Asset Master (Plant,flower,Section,Asset Code,Decription,Make/Brand,RFID Tag) Done
+4.Doc No. Generation (From Plant,To plant,From Flower To Flower,From Section To Section
+,Asset Code,Dispatch Qty) -Done
+5.Report Plant,flower,Section,Asset-Done
+6.Assert Approve New Screen (Plant,Doc No All Details Show in Grid,Approve Button)-Done
+7.Plant Master New screen (Plant,Flower,Selction)-Done
+8.Main menu HHT change Asset Locator=Stock take-Done
+9.Asset Dispatch (Doc No selection,show to plant on lable at doc selection,Rmove From Plant)-Done
+10.Asset Receiving (same Asset Dispatch)-Done
+11.Asset Locator change Stock Take (Plant ,Flower,Section show details (Asset code,Qty))-Done
+Start Asset Button,
+show Scan count after start
+view button show Details (RFID Tage,Asset code,Qty,Scan Qty)-Done
+Complete button
+
+
+

@@ -1,0 +1,14 @@
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_BL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_BL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_DL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_PL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SatoLib.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_COMMON.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_DL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_PL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\bin\x86\Debug\SATO_PRINTING_COMMON.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\obj\x86\Debug\SATO_PRINTING_BL.csproj.CoreCompileInputs.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\obj\x86\Debug\SATO_PRINTING_BL.csproj.CopyComplete
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\obj\x86\Debug\SATO_PRINTING_BL.dll
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\obj\x86\Debug\SATO_PRINTING_BL.pdb
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_BL\obj\x86\Debug\SATO_PRINTING_BL.csprojAssemblyReference.cache

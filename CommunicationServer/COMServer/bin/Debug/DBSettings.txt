@@ -1,0 +1,9 @@
+[SQL_CONFIGRATION]
+*****************************************
+SQL_DB_SERVER=SAR-N-PG02J28K
+SQL_DB=SATO_UKB_ELECTRONICS
+SQL_DB_USER=sa
+SQL_DB_PASSWORD=sato@123
+*****************************************
+[SQL_CONFIGRATION]
+*****************************************

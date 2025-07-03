@@ -1,0 +1,2 @@
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x86\Debug\SATO_PRINTING_COMMON.csprojAssemblyReference.cache
+D:\SATO\Elin\Elin Part Traceability _250322\Elin Part Traceability _250322\Elin Part Traceability\SATO_PRINTING_COMMON\obj\x86\Debug\SATO_PRINTING_COMMON.csproj.CoreCompileInputs.cache
